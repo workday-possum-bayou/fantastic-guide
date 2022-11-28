@@ -10,6 +10,8 @@ function setVh() {
     root.style.setProperty('--vh', vh + 'px');
 }
 
-setVh();
+window.onload=function(){
+ setVh();
 window.addEventListener('resize', setVh);
 document.querySelector('.card__open-btn').addEventListener('click', openCard);
+  }
