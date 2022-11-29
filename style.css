@@ -1191,11 +1191,11 @@ ul, li {
   40%,
   80%,
   100% {
-    transform: scale(1) translateY(-50%) rotate(45deg);
+    transform: scale(1) translateY(-50%) rotate(0deg);
   }
   20%,
   60% {
-    transform: scale(1.2) translateY(-35%) rotate(45deg);
+    transform: scale(1.2) translateY(-35%) rotate(0deg);
   }
 }
 
