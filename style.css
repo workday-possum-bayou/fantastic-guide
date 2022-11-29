@@ -24,7 +24,7 @@ html, body {
     font-style: normal;
     font-family: 'Gaegu', cursive;
     overflow: hidden;
-    background: #ea2c45;
+    background: #464646;
 }
 
 ul, li {
@@ -130,7 +130,7 @@ ul, li {
     width: 60%;
     height: 60%;
     border-radius: 100vmin 80vmin 0 0;
-    background: #bc202e;
+    background: #464646;
     transform: rotate(-25deg) skew(50deg);
     z-index: 1;
 }
